@@ -10,7 +10,6 @@ HOW TO USE IT:
 • hidden="true/false" if its enabled, it will hide the icon from the list
 • ignored="true/false" if its enabled, it will make icon not possible to click or interract at all
  -->
-
 <icons>
   <line>
     <icon name="Mechanic" ID="1" color="#A69AED" locked="false" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
