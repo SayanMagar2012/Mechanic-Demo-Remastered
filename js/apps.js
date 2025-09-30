@@ -122,12 +122,6 @@ versions.v1 = {
       uniqsnd: !0,
     },
   ],
-  bonusarray: [],
-
+  bonusarray: [
+  ],
 };
-
-// versions.v2 = {
-//  name: "New Version",
-// version: "2",
-// date: "2025",
-// ...
